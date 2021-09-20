@@ -1,0 +1,26 @@
+{
+  "name": "clancy_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/clancy_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Challett1129/clancy_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Challett1129/clancy_bot/issues"
+  },
+  "homepage": "https://github.com/Challett1129/clancy_bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
